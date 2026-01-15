@@ -80,7 +80,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -bonexp
 
 env:
   TZ: Etc/UTC
